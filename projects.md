@@ -12,3 +12,6 @@ A 2D game made in Construct2 where you shoot water to control the flames, everyt
 ## [HallOfQueenZ](https://niquion.itch.io/hoq)
 ![HOQZ](https://github.com/niquion/niquion.github.io/blob/master/hoq.png?raw=true)
 A turn-based RPG made in Construct2 where I was the programmer.
+
+
+[Index](https://niquion.github.io/)
