@@ -2,9 +2,9 @@
 
 ## Drawings
 
-![rukina](https://github.com/niquion/niquion.github.io/blob/master/I%20HAVE%20THE%20POWER%20OF%20NAGA%20AND%20ANIME%20ON%20MY%20SIDE.png)
+![rukina](https://github.com/niquion/niquion.github.io/blob/master/rukina.png)
 ![sagia](https://github.com/niquion/niquion.github.io/blob/master/sagita.png)
-![horror](https://github.com/niquion/niquion.github.io/blob/master/Nicol%C3%A1sCandia_Entrega2.png)
+![horror](https://github.com/niquion/niquion.github.io/blob/master/horror.png)
 
 ## Sprites
 
