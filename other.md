@@ -13,9 +13,15 @@
 ![ramius](https://github.com/niquion/niquion.github.io/blob/master/ramius%20sprite.png?raw=true)
 ![katsuko](https://github.com/niquion/niquion.github.io/blob/master/katsukosprite.png?raw=true)
 
-## Animaciones
+## Animations
 
-https://www.youtube.com/watch?v=9wzMbm2m9EQ
+[Overwatch intro type animation](https://www.youtube.com/watch?v=9wzMbm2m9EQ)
+
+## 3D Models
+
+[S&W 686 Revolver](https://sketchfab.com/3d-models/sw-686-efdcae41df4c43149a1e7e92decb379e)
+
+[Kar98k](https://skfb.ly/6UntL)
 
 
 [Index](https://niquion.github.io/)
