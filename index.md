@@ -6,7 +6,7 @@ My name is Nicolás Candia, I'm a Chilean game programmer, game designer, passio
 
 ### Pick your poison
 
-* [**The long of it**](https://niquion.github.io/)
-* [**Projects**](https://niquion.github.io/)
-* [**Non-Programming stuff**](https://niquion.github.io/)
-* [**Contact**](https://niquion.github.io/)
+* [**The long of it**](https://niquion.github.io/about)
+* [**Projects**](https://niquion.github.io/projects)
+* [**Non-Programming stuff**](https://niquion.github.io/other)
+* [**Contact**](https://niquion.github.io/contact)
