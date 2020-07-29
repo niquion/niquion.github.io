@@ -23,5 +23,6 @@
 
 [Kar98k](https://skfb.ly/6UntL)
 
+**If you want to know of more things that I've done in any field feel free to ask me.**
 
 [Index](https://niquion.github.io/)
