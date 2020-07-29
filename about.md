@@ -25,4 +25,6 @@ Despite this, I had a blast of a time making it and I especially had fun with th
 
 My way of working is pretty simple, if Im not interested in the proyect then I just do my part as well as I can and move on, but if I am invested then I can spend so much time working just out of passion and go above and beyond to obtain the absolute best result I can. I am definitely way more productive and hardworking when I have a passion for the project.
 
+Besides programming I also enjoy a lot Game Design in general, writing, animating (2D and 3D) and drawing, so if I have to I can help with pretty much any task, kind of a jack of all trades when needed.
+
 And I think that's abour it, if you want to know anything else or talk about anime tiddies feel free to [contact me!](https://niquion.github.io/contact)
