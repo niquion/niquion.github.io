@@ -4,9 +4,12 @@ Anyways, here is the different ways to get in contact with me:
 
 **E-Mail:** nicolascandiac@hotmail.com
 
+[**Linkedin**](https://www.linkedin.com/in/nicol%C3%A1scandia/)
+
 **Discord:** niquion#2263
 
 **Twitter:** @niquionoe
+
 
 
 
