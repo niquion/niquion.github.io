@@ -2,9 +2,9 @@
 
 ## Drawings
 
-![rukina](https://github.com/niquion/niquion.github.io/blob/master/rukina.png)
-![sagia](https://github.com/niquion/niquion.github.io/blob/master/sagita.png)
-![horror](https://github.com/niquion/niquion.github.io/blob/master/horror.png)
+![rukina](https://github.com/niquion/niquion.github.io/blob/master/rukina.png?raw=true)
+![sagia](https://github.com/niquion/niquion.github.io/blob/master/sagita.png?raw=true)
+![horror](https://github.com/niquion/niquion.github.io/blob/master/horror.png?raw=true)
 
 ## Sprites
 
