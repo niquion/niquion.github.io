@@ -11,7 +11,7 @@ Hey, I guess you wanted to know a little bit more? thats alright, let's get the 
 * Blender (medium)
 
 ### Programming lenguages
-* C# (medium)
+* C# (medium-high)
 * C++ (very basic)
 * GML (medium)
 
