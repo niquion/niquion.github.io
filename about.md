@@ -12,7 +12,7 @@ Hey, I guess you wanted to know a little bit more? thats alright, let's get the 
 
 ### Programming lenguages
 * C# (medium)
-* C++ (basic)
+* C++ (very basic)
 * GML (medium)
 
 ### People lenguages
