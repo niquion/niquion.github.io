@@ -7,6 +7,7 @@ Hey, I guess you wanted to know a little bit more? thats alright, let's get the 
 * Construct2 (advanced)
 * GameMaker: Studio (advanced)
 * Adobe Photoshop (advanced)
+* Clip Studio Paint (medium)
 * Paint.net (basic)
 * Blender (medium)
 
