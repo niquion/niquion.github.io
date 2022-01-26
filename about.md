@@ -4,6 +4,7 @@ Hey, I guess you wanted to know a little bit more? thats alright, let's get the 
 
 ### Softwares
 * Unity (advanced)
+* Visual Studio (medium-advanced)
 * Construct2 (advanced)
 * GameMaker: Studio (advanced)
 * Adobe Photoshop (advanced)
@@ -11,8 +12,11 @@ Hey, I guess you wanted to know a little bit more? thats alright, let's get the 
 * Paint.net (basic)
 * Blender (medium)
 
-### Programming lenguages
-* C# (medium-high)
+### Programming/Scripting/Markup lenguages
+* C# (medium-advanced)
+* HTML (medium)
+* PHP (basic-medium)
+* JavaScript (basic)
 * C++ (very basic)
 * GML (medium)
 
