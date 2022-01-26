@@ -5,7 +5,8 @@ Hey, I guess you wanted to know a little bit more? thats alright, let's get the 
 ### Softwares
 * Unity (advanced)
 * Visual Studio (medium-advanced)
-* Construct2 (advanced)
+* Construct2 & 3 (advanced)
+* Git (basic)
 * GameMaker: Studio (advanced)
 * Adobe Photoshop (advanced)
 * Clip Studio Paint (medium)
