@@ -20,4 +20,7 @@ A 2D game made in Construct2 where you shoot water to control the flames, everyt
 A turn-based RPG made in Construct2 where I was the programmer.
 
 
+
+### Besides these I've also made prototypes of shoot-em ups, pet games, top-down action games, action platformers and 3D platformers.
+
 [Index](https://niquion.github.io/)
