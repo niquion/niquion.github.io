@@ -5,6 +5,9 @@
 ![rukina](https://github.com/niquion/niquion.github.io/blob/master/rukina.png?raw=true)
 ![sagia](https://github.com/niquion/niquion.github.io/blob/master/sagita.png?raw=true)
 ![horror](https://github.com/niquion/niquion.github.io/blob/master/horror.png?raw=true)
+![visakh](https://github.com/niquion/niquion.github.io/blob/master/Visakh.png?raw=true)
+![dunia](https://github.com/niquion/niquion.github.io/blob/master/dunia_fondo.png?raw=true)
+![jo-el](https://github.com/niquion/niquion.github.io/blob/master/Jo-El.png?raw=true)
 
 ## Sprites
 
