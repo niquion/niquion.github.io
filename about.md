@@ -31,7 +31,7 @@ So how did this came to be? well, since very little I've had the passion for vid
 
 ![spw](https://github.com/niquion/niquion.github.io/blob/master/spw.png?raw=true)
 
-Despite this, I had a blast of a time making it and I especially had fun with the programming part, which made sense to me since I was always good with math, the process of learning by trial and error until everything works out is very satisfying to me. And so I decided to study game design in the Professional Institute Arcos, where I learned Construct2 and Unity.
+Despite this, I had a blast of a time making it and I especially had fun with the programming part, which made sense to me since I was always good with math, the process of learning by trial and error until everything works out is very satisfying to me. And so I decided to study game design in the Professional Institute Arcos, where I learned Construct2 and Unity. After completing my higher education I started working right away on various different proyects in Digital Gekko, where I mostly took care of programming and some planning.
 
 My way of working is pretty simple, if Im not interested in the proyect then I just do my part as well as I can and move on, but if I am invested then I can spend so much time working just out of passion and go above and beyond to obtain the absolute best result I can. I am definitely way more productive and hardworking when I have a passion for the project.
 
