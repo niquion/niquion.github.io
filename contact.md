@@ -6,7 +6,7 @@ Anyways, here is the different ways to get in contact with me:
 
 [**Linkedin**](https://www.linkedin.com/in/nicol%C3%A1scandia/)
 
-**Discord:** niquion#2263
+**Discord:** @niquion
 
 **Twitter:** @niquionoe
 
