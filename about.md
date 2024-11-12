@@ -7,7 +7,7 @@ Hey, I guess you wanted to know a little bit more? Thats alright, let's get the 
 * Visual Studio (medium-advanced)
 * Construct2 & 3 (advanced)
 * Godot (medium)
-* Git (basic)
+* Git (medium)
 * GameMaker: Studio (medium)
 * Adobe Photoshop (advanced)
 * Clip Studio Paint (medium)
@@ -40,4 +40,9 @@ Besides programming I also enjoy a lot Game Design in general, writing, animatin
 And I think that's about it, if you want to know anything else or talk about whatever feel free to [contact me!](https://niquion.github.io/contact)
 
 
-[Index](https://niquion.github.io/)
+### More info on me
+
+* [**Index**](https://niquion.github.io/)
+* [**Projects**](https://niquion.github.io/projects)
+* [**Non-Programming stuff**](https://niquion.github.io/other)
+* [**Contact**](https://niquion.github.io/contact)
