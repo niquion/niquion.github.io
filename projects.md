@@ -23,4 +23,10 @@ A turn-based RPG made in Construct2 where I was the programmer.
 
 ### Besides these I've also made prototypes of shoot-em ups, pet games, top-down action games, action platformers and 3D platformers.
 
-[Index](https://niquion.github.io/)
+
+### More info on me
+
+* [**Index**](https://niquion.github.io/)
+* [**Projects**](https://niquion.github.io/projects)
+* [**Non-Programming stuff**](https://niquion.github.io/other)
+* [**Contact**](https://niquion.github.io/contact)
