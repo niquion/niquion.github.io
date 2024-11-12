@@ -15,4 +15,9 @@ Anyways, here is the different ways to get in contact with me:
 
 See you around!
 
-[Index](https://niquion.github.io/)
+### More info on me
+
+* [**Index**](https://niquion.github.io/)
+* [**Projects**](https://niquion.github.io/projects)
+* [**Non-Programming stuff**](https://niquion.github.io/other)
+* [**Contact**](https://niquion.github.io/contact)
