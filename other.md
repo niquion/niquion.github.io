@@ -26,6 +26,11 @@
 
 [Kar98k](https://skfb.ly/6UntL)
 
-**If you want to know of more things that I've done in any field feel free to ask me.**
+**If you want to know of more things that I've done in any field feel free to ask.**
 
-[Index](https://niquion.github.io/)
+### More info on me
+
+* [**Index**](https://niquion.github.io/)
+* [**Projects**](https://niquion.github.io/projects)
+* [**Non-Programming stuff**](https://niquion.github.io/other)
+* [**Contact**](https://niquion.github.io/contact)
