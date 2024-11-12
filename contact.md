@@ -20,4 +20,4 @@ See you around!
 * [**Index**](https://niquion.github.io/)
 * [**Projects**](https://niquion.github.io/projects)
 * [**Non-Programming stuff**](https://niquion.github.io/other)
-* [**Contact**](https://niquion.github.io/contact)
+* [**Certificates**](https://niquion.github.io/certificates)
