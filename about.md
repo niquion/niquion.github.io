@@ -46,3 +46,4 @@ And I think that's about it, if you want to know anything else or talk about wha
 * [**Projects**](https://niquion.github.io/projects)
 * [**Non-Programming stuff**](https://niquion.github.io/other)
 * [**Contact**](https://niquion.github.io/contact)
+* [**Certificates**](https://niquion.github.io/certificates)
