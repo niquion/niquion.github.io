@@ -27,6 +27,7 @@ A turn-based RPG made in Construct2 where I was the programmer.
 ### More info on me
 
 * [**Index**](https://niquion.github.io/)
-* [**Projects**](https://niquion.github.io/projects)
+* [**The long of it**](https://niquion.github.io/about)
 * [**Non-Programming stuff**](https://niquion.github.io/other)
 * [**Contact**](https://niquion.github.io/contact)
+* [**Certificates**](https://niquion.github.io/certificates)
