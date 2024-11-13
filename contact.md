@@ -18,6 +18,7 @@ See you around!
 ### More info on me
 
 * [**Index**](https://niquion.github.io/)
+* [**The long of it**](https://niquion.github.io/about)
 * [**Projects**](https://niquion.github.io/projects)
 * [**Non-Programming stuff**](https://niquion.github.io/other)
 * [**Certificates**](https://niquion.github.io/certificates)
