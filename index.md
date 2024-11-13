@@ -10,3 +10,4 @@ My name is Nicolás Candia, I'm a Chilean game programmer, game designer, passio
 * [**Projects**](https://niquion.github.io/projects)
 * [**Non-Programming stuff**](https://niquion.github.io/other)
 * [**Contact**](https://niquion.github.io/contact)
+* [**Certificates**](https://niquion.github.io/certificates)
