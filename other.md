@@ -31,6 +31,7 @@
 ### More info on me
 
 * [**Index**](https://niquion.github.io/)
+* [**The long of it**](https://niquion.github.io/about)
 * [**Projects**](https://niquion.github.io/projects)
 * [**Contact**](https://niquion.github.io/contact)
 * [**Certificates**](https://niquion.github.io/certificates)
